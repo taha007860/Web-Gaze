@@ -28,3 +28,6 @@ We welcome contributions to improve gaze tracking accuracy and expand functional
 ## Acknowledgements
 Special thanks to the American University of Beirut for hosting the Tech for Accessibility Hackathon and fostering the development of accessibility solutions. 🎓
 
+## Watch Demo
+https://github.com/taha007860/Contact-Book/assets/96583299/a26d5cd7-4513-4243-b95f-d0d753cdb623
+
